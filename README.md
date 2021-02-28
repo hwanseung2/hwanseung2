@@ -20,7 +20,7 @@ I organize what I study through Notion. The link connects to a Notion that has b
 
 ### :mailbox_with_mail: Contacts
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:yoohs0356@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoohs0356@gmail.com)](mailto:yoohs0356@gmail.com) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwanseung2)](https://github.com/anuraghazra/github-readme-stats)
 
