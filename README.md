@@ -18,6 +18,10 @@ I organize what I study through Notion. The link connects to a Notion that has b
 
 [![Notion](https://img.shields.io/badge/Notion-Sutdies-0696D7?style=plastic&logo=Notion&logoColor=white)](https://www.notion.so/Study-5afdd0d93fee45b18be1e50224a6e968)
 
+### &#127891; Algorithm activities
+
+[![Solved.ac. stats](http://mazassumnida.wtf/api/mini/generate_badge?boj=wazs555)](https://solved.ac/wazs555)
+
 [![Solved.ac. stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=wazs555)](https://solved.ac/wazs555)
 
 
