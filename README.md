@@ -12,7 +12,7 @@ My major is `BioMedicalEngineering`, and I have been studying Computer Engineeri
 |   **Challenge activities**   | 2020. 10 ~ 2020. 10 | MOAI 2020 body morphometry AI Segmentation Online Challenge *1st* | **Hankuk University of Foreign Studies AIMLAB** |
 |   **Challenge activities**   |  2021. 2 ~ 2021. 2  | Samsung Medical Center, Ajou Unviersity Hospital 2021 Teeth Object Detection & numbering Challenge *4th* |              **Promedius ML team**              |
 
-### Studies activities
+### &#127891; Studies activities
 
 I organize what I study through Notion. The link connects to a Notion that has been cleaned up.
 
