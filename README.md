@@ -1,4 +1,4 @@
- :wave:Hello My name is Hwanseung, I am a AI researcher working at Promedius
+ :wave:Hello My name is Hwanseung, I am studying at HUFS
 
 
 
