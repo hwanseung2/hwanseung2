@@ -1,7 +1,5 @@
 ### &#127891; Studies activities
 
-I organize what I study through Notion. The link connects to a Notion that has been cleaned up.
-
 [![Notion](https://img.shields.io/badge/Notion-Sutdies-0696D7?style=plastic&logo=Notion&logoColor=white)](https://www.notion.so/Study-5afdd0d93fee45b18be1e50224a6e968)
 
 
